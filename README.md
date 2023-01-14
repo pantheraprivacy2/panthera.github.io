@@ -18,7 +18,7 @@
     <main>
       <section id="about">
         <h2>About Panthera</h2>
-        <p>Panthera is a company that specializes in privacy technology. We offer a wide range of services to help protect your personal information and keep your data secure.</p>
+        <p>Stands for the better internet.</p>
       </section>
       <section id="services">
         <h2>Our Services</h2>
@@ -30,8 +30,7 @@
       </section>
       <section id="contact">
         <h2>Contact Us</h2>
-        <p>Email: info@panthera.com</p>
-        <p>Phone: 555-555-5555</p>
+        <p>Email: pantheraprivacy@duck.com</
       </section>
     </main>
     <footer>
