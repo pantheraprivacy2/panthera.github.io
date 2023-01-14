@@ -1,4 +1,4 @@
-## Panthera Privacy 
+# Panthera Privacy 
 "Stands for the better Internet"
 
 # Blocks adverstisements and online garbage
