@@ -14,10 +14,12 @@ The Neutron Blocklist is a DNS based filter list for advertisement and other onl
  - Blocks webminers
  - Blocks phishing 
  
-#Flavors
+# Flavors
 [Neutron Full](https://raw.githubusercontent.com/pantheraprivacy2/Block-list/main/NeutronFull)
+
 Neutron Basic (Coming soon)
+
 Neutron Anti-porn (Coming soon)
 
-#Suppport the project:
+# Suppport the project:
  
