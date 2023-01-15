@@ -15,8 +15,7 @@ The Neutron Blocklist is a DNS based filter list for advertisement and other onl
  - Blocks phishing 
  
 # Flavors
-[Neutron Full](https://raw.githubusercontent.com/pantheraprivacy2/Block-list/main/NeutronFull)
-
+[Neutron https://github.com/privacypanthera/blocklistFull]
 Neutron Basic (Coming soon)
 
 Neutron Anti-porn (Coming soon)
